@@ -7,9 +7,7 @@ const Skills = () => {
       <section id="skills">
         <span className="skillTitle">About Me</span>
         <span className="skillDesc">
-          Enthusiastic and results-driven Computer Science graduate with a
-          Master's degree in Computer Science from Binghamton University, State
-          University of New York. My passion lies in front-end development and
+          My passion lies in front-end development and
           user interface design, where I have honed my skills in React.js,
           JavaScript, HTML, CSS, and Adobe Experience Manager (AEM).
         </span>
