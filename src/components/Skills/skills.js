@@ -1,8 +1,10 @@
 import React from "react";
 import "../Skills/skills.css";
+import { Element } from "react-scroll";
 
 const Skills = () => {
   return (
+    <Element name="about" className="element">
     <div>
       <section id="skills">
         <span className="skillTitle">About Me</span>
@@ -114,6 +116,7 @@ const Skills = () => {
         </div>
       </section>
     </div>
+    </Element>
   );
 };
 

@@ -2,6 +2,7 @@ import React from "react";
 import "./contact.css";
 import { useRef } from "react";
 import emailjs from "@emailjs/browser";
+import { Element } from "react-scroll";
 
 const Contact = () => {
   const form = useRef();
@@ -23,6 +24,7 @@ const Contact = () => {
       );
   };
   return (
+    <Element name="contact" className="element">
     <div>
       <div id="contact">
         <h1 className="contactPageDetails">Contact Me</h1>
@@ -64,6 +66,7 @@ const Contact = () => {
         </form>
       </div>
     </div>
+    </Element>
   );
 };
 
