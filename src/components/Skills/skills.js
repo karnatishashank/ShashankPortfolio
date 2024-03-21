@@ -26,7 +26,7 @@ const Skills = () => {
                 <h4>State University of NewYork at Binghamton</h4>
                 
                   <p>Master of Science in Computer Science</p>
-                  <p>Cumulative GPA <span className="gpa">3.53</span></p>
+                 
                   
                
               </div>
@@ -36,7 +36,7 @@ const Skills = () => {
                 <h4>KL University</h4>
                 
                   <p>Bachelor of Technology in Computer Science</p>
-                  <p>Cumulative GPA <span className="gpa">3.40</span></p>
+                  
                   
                
               </div>

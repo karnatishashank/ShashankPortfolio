@@ -39,10 +39,12 @@ const Works = () => {
                             incorporating Redux for state management and React
                             Router for routing.
                           </li>
+                          <br></br>
                           <li>
                             Utilized hooks for improved component structure and
                             state management.
                           </li>
+                          <br></br>
                           <li>
                             Developed a responsive UI for seamless experience
                             across devices.
@@ -68,16 +70,23 @@ const Works = () => {
                       <div class="flip-card-back">
                         <ul>
                           <li>
-                          Created custom AEM components to meet project requirements.
+                            Created custom AEM components to meet project
+                            requirements.
                           </li>
+                          <br></br>
                           <li>
-                          Customized the DAM system in AEM for efficient storage and retrieval of digital assets.
+                            Customized the DAM system in AEM for efficient
+                            storage and retrieval of digital assets.
                           </li>
+                          <br></br>
                           <li>
-                          Utilized AEM architecture (Sling, CRX, OSGI, JCR) in development.
+                            Utilized AEM architecture (Sling, CRX, OSGI, JCR) in
+                            development.
                           </li>
+                          <br></br>
                           <li>
-                          Designed and engineered AEM components, templates, dialogs, and workflows
+                            Designed and engineered AEM components, templates,
+                            dialogs, and workflows
                           </li>
                         </ul>
                       </div>
@@ -101,18 +110,38 @@ const Works = () => {
                       <div class="flip-card-back">
                         <ul>
                           <li>
-                          Proficient in structuring components for Homepage, Recipe, and Food Order sections.
+                            Proficient in structuring components for Homepage,
+                            Recipe, and Food Order sections.
                           </li>
+                          <br></br>
                           <li>
-                          Integrated data fetching capabilities to retrieve data from APIs.
+                            Utilized React's state and context API for efficient
+                            cart management.
                           </li>
+                          <br></br>
                           <li>
-                          Utilized React's state and context API for efficient cart management.
-                          </li>
-                          <li>
-                          Adopted CSS Modules for component-based styling, ensuring clean and maintainable styles.
+                            Adopted CSS Modules for component-based styling,
+                            ensuring clean and maintainable styles.
                           </li>
                         </ul>
+                        <div className="workBtns">
+                          <a
+                            href="https://github.com/karnatishashank/shashankRecipe.git"
+                            className="skillCatLinks"
+                          >
+                            <span className="skillCatTypes">
+                              <span className="skillCatTitle">Code</span>
+                            </span>
+                          </a>
+                          <a
+                            href="https://shashankrecipes.web.app/"
+                            className="skillCatLinks"
+                          >
+                            <span className="skillCatTypes">
+                              <span className="skillCatTitle">Demo</span>
+                            </span>
+                          </a>
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -125,7 +154,7 @@ const Works = () => {
                   <div class="flip-card">
                     <div class="flip-card-inner">
                       <div class="flip-card-front">
-                        <h2>Newsportal</h2>
+                        <h2>Newsportal News 247</h2>
                         <p>
                           <b>Role: </b>AEM Developer
                         </p>
@@ -133,15 +162,39 @@ const Works = () => {
                       <div class="flip-card-back">
                         <ul>
                           <li>
-                          Devised OSGi service for Trending Articles using Sling models and HTL for dynamic rendering.
+                            Devised OSGi service for Trending Articles using
+                            Sling models and HTL for dynamic rendering.
                           </li>
+                          <br></br>
                           <li>
-                          Enhanced RTE capabilities for Text Components by configuring and customizing AEM Rich Text Editor.
+                            Enhanced RTE capabilities for Text Components by
+                            configuring and customizing AEM Rich Text Editor.
                           </li>
+                          <br></br>
                           <li>
-                          Incorporated CSS and JS into client libraries for optimized AEM application performance and styling.
+                            Incorporated CSS and JS into client libraries for
+                            optimized AEM application performance and styling.
                           </li>
                         </ul>
+                        <div className="workBtns">
+                          <a
+                            href=""
+                            className="skillCatLinks"
+                          >
+                            <span className="skillCatTypes">
+                              <span className="skillCatTitle">Code</span>
+                            </span>
+                          </a>
+                          <a
+                            href=""
+                            className="skillCatLinks"
+                          >
+                            <span className="skillCatTypes">
+                              <span className="skillCatTitle">Demo</span>
+                            </span>
+                          </a>
+                         
+                        </div>
                       </div>
                     </div>
                   </div>

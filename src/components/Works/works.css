@@ -80,6 +80,19 @@
     transform: rotateY(180deg);
     padding: 0.5rem;
   }
+  .flip-card-back ul{
+    font-size: 14px;
+    
+  }
+  .flip-card-back .workBtns{
+    margin-top: 1rem;
+    font-weight: 600;
+  }
+
+  .flip-card-back .workBtns .skillCatLinks{
+    background: #FFF;
+    color: #be3144;
+  }
 
 
 
